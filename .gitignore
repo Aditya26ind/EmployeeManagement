@@ -49,10 +49,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Database migrations (if you want to ignore them)
-# !/employees/migrations/
-# /employees/migrations/*
-
 # Local development settings
 settings/local.py
 settings/dev.py
